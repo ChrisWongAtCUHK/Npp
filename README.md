@@ -3,3 +3,4 @@ Reference:
 Download:
 	1.	http://portableapps.com/apps/development/notepadpp_portable
 	2.	http://sourceforge.net/projects/npp-plugins/files/NppExec/NppExec%20Plugin%20v0.5/
+	3.	http://sourceforge.net/projects/npp-compare/
